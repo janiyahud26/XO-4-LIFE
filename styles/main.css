@@ -34,3 +34,18 @@
     color: #134074;
 }
 
+.logo {
+    width: 90px;
+}
+
+footer {
+    display: flex;
+    padding: 10px 5px;
+    background-color: #8DA9C4;
+    color: #0B2545;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    border: solid;
+    box-sizing: border-box;
+}
