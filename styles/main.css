@@ -1,0 +1,36 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    border: solid #0B2545;
+    box-sizing: border-box;
+}
+
+.nav-item {
+    padding: 0em 1em;
+    height: 3em;
+    font-size: 1em;
+    line-height: 3em;
+    border-radius: 25px;
+    background-color: #EEF4ED;
+}
+
+.nav-item a:link {
+    text-decoration: none;
+    color: #0B2545;
+}
+
+.nav-item a:visited {
+    text-decoration: none;
+    color: #0B2545;
+}
+
+.nav-item a:active {
+    text-decoration: none;
+}
+
+.nav-item a:hover {
+    text-decoration: none;
+    color: #134074;
+}
+
